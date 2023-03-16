@@ -2,6 +2,90 @@
 
 This is Module 1 Introduction to Finance and Programming
 
+## Contents
+
+* [Module 1 Challenge](#module-1-challenge---fintech-case-study)
+* [Overview](#overview-and-origin)
+* [Business Activities](#business-activities)
+* [Landscape](#landscape)
+* [Results](#results)
+* [Recommendations](#recommendations)
+* [Back to Repo Menu](#back-to-fintech-menu)
+
+# Module 1 Challenge - Fintech Case Study
+
+## Overview and Origin
+
+* [SwissBorg S.A.](https://swissborg.com/)
+
+* When was the company incorporated?
+
+SwissBorg was founded in Switzerland in 2017. 
+
+* Who are the founders of the company?
+
+The original joint founders were Swiss nationals Cyrus Fazel and Anthony Lesoismier.
+
+* How did the idea for the company (or project) come about?
+
+The founders were working in wealth management when it dawned on them they were only focusing on 0.1% of the planet's population. Using blockchain, they felt they could potentially reach everyone and reduce the wealth gap at the same time. Given the nature, or volatility, that the crypto market presents, the founders wanted to create a platform for people to become better crypto investors and manage their crypto with a blockchain based wealth management ecosystem. Swissborg was the very first blockchain-based wealth management platform, specifically for cryptocurrency investments.
+
+* How is the company funded? How much funding have they received?
+
+The original ICO was late in 2017, around December, and ran into to early 2018. Once the ICO closed it was the 10th biggest ICO in the world attacting over 24,000 investors and totalling $52m USD. I was an initial CHSB ICO investor myself in 2017 and still own my original investment today.
+
+They are raising additional funds and have Series A investment round ongoing at the moment. They are half way to their CHF 25m target.
+
+## Business Activities:
+
+* What specific financial problem is the company or project trying to solve?
+
+Their aim was to simplify crypto investment by integrating exchange functions, providing ability to buy/sell crypto and crypto portfolio management. They also integrated community-ownership as part of the platform coin ownership as well as voting rights, so people help shape the direction of the company as well as sharing future success. Above all, bring the ability to gain wealth to everyone.
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+They target crypto investors and believers in SwissBorg. They have over 700k verified users and growing. While they offer ability to buy and sell crypto, they are much more than a crypto exchange. They released a Smartphone App for users that provides passive earning and yield opportinuties. CHSB Yield provides a conservative single investment interest methods for assets. CHSB Earn provides multiple strategy options to distribute assets. SwissBorg also offers payouts linked to the performance of their own ecosystem, rewarding people for long term investment in CHSB, like CHSB term deposits. These features, as well as asset and portfolio analysis, are all backed by advanced AI algorithms.
+
+Some of their more recent capability releases includes SwissBorg Thematics. This allows people to purchase crypto in similar market verticle bundles. They have also recently released an Academy for further learning.
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+The CHSB token is a utility token on the Ethereum blockchain which is used to access their services on the SwissBorg platform. They are heavily Web3 focused. 
+
+
+
+## Landscape:
+
+* What domain of the financial industry is the company in?
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+
+* What are the other major companies in this domain?
+
+
+## Results
+
+* What has been the business impact of this company so far?
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+The hit unicorn status in 2022 with a $1B market cap.
+
+* How is your company performing relative to competitors in the same domain?
+
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+* Why do you think that offering this product or service would benefit the company?
+
+* What technologies would this additional product or service utilize?
+
+* Why are these technologies appropriate for your solution?
+
+
 ## Back to Fintech Menu
 
-* [Fintech Bootcamp Menu](https://github.com/d4np3/fintech)
+* [Fintech Bootcamp Repo Menu](https://github.com/d4np3/fintech)
