@@ -4,7 +4,6 @@ This is Module 1 Introduction to Finance and Programming
 
 ## Contents
 
-* [Module 1 Challenge](#module-1-challenge---fintech-case-study)
 * [Overview](#overview-and-origin)
 * [Business Activities](#business-activities)
 * [Landscape](#landscape)
