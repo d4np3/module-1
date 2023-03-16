@@ -10,7 +10,7 @@ This is Module 1 Introduction to Finance and Programming
 * [Landscape](#landscape)
 * [Results](#results)
 * [Recommendations](#recommendations)
-* [Back to Repo Menu](#back-to-fintech-menu)
+* [Back to Fintech Home](#back-to-fintech-home)
 
 # Module 1 Challenge - Fintech Case Study
 
@@ -103,6 +103,6 @@ TBC
 TBC
 
 
-## Back to Fintech Menu
+## Back to Fintech Home
 
-* [Fintech Bootcamp Repo Menu](https://github.com/d4np3/fintech)
+* [Fintech Bootcamp Home](https://github.com/d4np3/fintech)
