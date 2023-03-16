@@ -42,43 +42,51 @@ They are raising additional funds and have Series A investment round ongoing at 
 
 * __*What specific financial problem is the company or project trying to solve?*__
 
-Their aim was to simplify crypto investment by integrating exchange functions, providing ability to buy/sell crypto and crypto portfolio management. They also integrated community-ownership as part of the platform coin ownership as well as voting rights, so people help shape the direction of the company as well as sharing future success. Above all, bring the ability to gain wealth to everyone.
+Their aim was to simplify crypto investment by integrating exchange functions, providing ability to buy/sell crypto and crypto portfolio management. They also integrated community-ownership as part of the platform coin ownership as well as voting rights, so people help shape the direction of the company as well as sharing future success. Above all, bring the ability to gain wealth to everyone rather than just the top 0.1%.
 
 * __*Who is the company's intended customer?  Is there any information about the market size of this set of customers?*__
   __*What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)*__
 
-They target crypto investors and believers in SwissBorg. They have over 700k verified users and growing. While they offer ability to buy and sell crypto, they are much more than a crypto exchange. They released a Smartphone App for users that provides passive earning and yield opportinuties. CHSB Yield provides a conservative single investment interest methods for assets. CHSB Earn provides multiple strategy options to distribute assets. SwissBorg also offers payouts linked to the performance of their own ecosystem, rewarding people for long term investment in CHSB, like CHSB term deposits. These features, as well as asset and portfolio analysis, are all backed by advanced AI algorithms.
+They target everyone, crypto investors and believers in SwissBorg. They have over 700k verified users and growing. While they offer ability to buy and sell crypto, they are much more than a crypto exchange. They released a Smartphone App for users that provides passive earning and yield opportinuties. CHSB Yield provides a conservative single investment interest methods for assets. CHSB Earn provides multiple strategy options to distribute assets. SwissBorg also offers payouts linked to the performance of their own ecosystem, rewarding people for long term investment in CHSB, like CHSB term deposits. They have various tiers for this depending on your investment. These features, as well as asset and portfolio analysis, are all backed by advanced AI algorithms.
 
-Some of their more recent capability releases includes SwissBorg Thematics. This allows people to purchase crypto in similar market verticle bundles. They have also recently released an Academy for further learning.
+Some of their more recent capability releases includes SwissBorg Thematics. This is a clever feature allowing people to purchase crypto in similar market verticle bundles, a bit like stockmarket EFTs, but for crypto. They have also recently released an Academy for further learning.
 
 * __*Which technologies are they currently using, and how are they implementing them?*__
   __*(This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*__
 
-The CHSB token is a utility token on the Ethereum blockchain which is used to access their services on the SwissBorg platform. They are heavily Web3 focused. 
+The CHSB token is a utility token on the Ethereum blockchain which is used to access their services on the SwissBorg platform. They are Web3 and decentralised finance (DeFi) focused. Web3 itself is claimed to be marketing spin, but essentially it means using a distributed model. 
+
+_A slight tangent, but another company - Protocol Labs - wrote InterPlanetary File System (IPFS) which is the basis for distributed Internet on blockchain. It is also the basis for Filecoin (another one I have invested in) which is distributed remote storage._
+
+...
 
 ## Landscape:
 
 * __*What domain of the financial industry is the company in?*__
 
-TBC
+Crypto Wealth Management based on Blockchain technology. 
 
 * __*What have been the major trends and innovations of this domain over the last 5-10 years?*__
 
-TBC
+Many companies are still discussing blockchain technology in the wealth management market, whereby SwissBorg has been continuing to expand their offering.
 
 * __*What are the other major companies in this domain?*__
 
-TBC
+There aren't many! There are plenty of crypto portfolio management companies, but they don't provide the service on blockchain technology.
 
 ## Results
 
 * __*What has been the business impact of this company so far?*__
 
-TBC
+They are on the leading edge for Blockchain Wealth Management and other than the market affecting their market cap they have been on an upward trajectory. The biggest hurdle for the company so far has been compliance. This is the reason their growth, from an availability stand point, has been slower than it would be otherwise. The SwissBorg app is not yet available in the USA or Australia for example.
+
+As part of the 700k "verified users" they follow strict Know Your Customer (KYC) and Anti Money Laundering (AML) requirements (which I went through myself when investing initially!). This ensures the app is not used illegally. They also have transaction monitoring and anti-fraud intelligence to abide with applicable regulations.
+
+Having said that, they are managing growth sensibly and protecting their position in the process. They hold 2/3rds of their proprietary assets in fiat/stablecoins, which offsets the volatility in other crypto assets. The remaining 1/3 is crypto where mostly invested in top 10 coins with strong positions, such as BTC and ETH.
 
 * __*What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*__
 
-The hit unicorn status in 2022 with a $1B market cap.
+The hit unicorn status in 2022 with a $1B market cap. More recently they have pegged back to $200m market cap, but this is across the board with the state of the international financial markets.
 
 * __*How is your company performing relative to competitors in the same domain?*__
 
