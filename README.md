@@ -36,13 +36,13 @@ The founders were working in wealth management when it dawned on them they were 
 
 The original ICO was late in 2017, around December, and ran into to early 2018. Once the ICO closed it was the 10th biggest ICO in the world attacting over 24,000 investors and totalling $52m USD. I was an initial CHSB ICO investor myself in 2017 and still own my original investment today.
 
-They are raising additional funds and have Series A investment round ongoing at the moment. They are half way to their CHF 25m target. 
+They are raising additional funds and have Series A investment round ongoing at the moment. They are just under half way to their CHF 25m target.
 
 The Series A investment will be distributed as follows:
 
 * 70% directly invested into the technological roadmap
 * 20% for new licences in Europe
-* 10% towards marketing and growth efforts.
+* 10% towards marketing and growth efforts
 
 ## Business Activities:
 
@@ -53,11 +53,11 @@ Their aim was to simplify crypto investment by integrating exchange functions, p
 * __*Who is the company's intended customer?  Is there any information about the market size of this set of customers?*__
   __*What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)*__
 
-They target everyone, crypto investors and believers in SwissBorg. They have over 700k verified users and growing. While they offer ability to buy and sell crypto, they are much more than a crypto exchange. They released a Smartphone App for users that provides passive earning and yield opportinuties. CHSB Yield provides a conservative single investment interest methods for assets. CHSB Earn provides multiple strategy options to distribute assets. SwissBorg also offers payouts linked to the performance of their own ecosystem, rewarding people for long term investment in CHSB, like CHSB term deposits. They have various tiers for this depending on your investment. These features, as well as asset and portfolio analysis, are all backed by advanced AI algorithms.
+They target everyone, crypto investors and believers in SwissBorg. They have over 700k verified users and growing. While they offer ability to buy and sell crypto, they are much more than a crypto exchange. They released a Smartphone App for users that provides passive earning and yield opportinuties. CHSB Yield provides a conservative single investment interest methods for assets. CHSB Earn provides multiple strategy options to distributed assets. SwissBorg also offers payouts linked to the performance of their own ecosystem, rewarding people for long term investment in CHSB, a bit like CHSB term deposits in the comnpany. They have various tiers for this depending on your investment. 
 
-Some of their more recent capability releases includes SwissBorg Thematics. This is a clever feature allowing people to purchase crypto in similar market verticle bundles, a bit like stockmarket EFTs, but for crypto. They have also recently released an Academy for further learning.
+Some of their more recent capability releases includes SwissBorg Thematics. This is a clever feature allowing people to purchase crypto in similar market verticle bundles, a bit like stockmarket EFTs, but for crypto. These features, as well as asset and portfolio analysis, are all backed by their own advanced AI algorithms. 
 
-Regulation is constantly changing direction and they need to remain compliant. Given how regulated they are, however, is actually a competitive advantage as this is difficult to obtain/maintain.
+In addition to the above intellectual property (IP) they commit constant efforts into ongoing regulation. While that is constantly changing direction, they need to remain compliant. This is actually another competitive advantage in itself as obtaining and maintaining compliance is no smaller undertaking.
 
 * __*Which technologies are they currently using, and how are they implementing them?*__
   __*(This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*__
@@ -65,8 +65,6 @@ Regulation is constantly changing direction and they need to remain compliant. G
 The CHSB token is a utility token on the Ethereum blockchain which is used to access their services on the SwissBorg platform. They are Web3 and decentralised finance (DeFi) focused. Web3 itself is claimed to be marketing spin, but essentially it means using a distributed model. 
 
 _A slight tangent, but another company - Protocol Labs - wrote InterPlanetary File System (IPFS) which is the basis for distributed Internet on blockchain. It is also the basis for Filecoin (another one I have invested in) which is distributed remote storage._
-
-...
 
 ## Landscape:
 
