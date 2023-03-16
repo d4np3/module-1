@@ -53,7 +53,7 @@ Their aim was to simplify crypto investment by integrating exchange functions, p
 * __*Who is the company's intended customer?  Is there any information about the market size of this set of customers?*__
   __*What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)*__
 
-They target everyone, crypto investors and believers in SwissBorg. They have over 700k verified users and growing. While they offer ability to buy and sell crypto, they are much more than a crypto exchange. They released a Smartphone App for users that provides passive earning and yield opportinuties. CHSB Yield provides a conservative single investment interest methods for assets. CHSB Earn provides multiple strategy options to distributed assets. SwissBorg also offers payouts linked to the performance of their own ecosystem, rewarding people for long term investment in CHSB, a bit like CHSB term deposits in the comnpany. They have various tiers for this depending on your investment. 
+They target everyone, crypto investors and believers in SwissBorg. They have over 706k verified users and growing. While they offer ability to buy and sell crypto, they are much more than a crypto exchange. They released a Smartphone App for users that provides passive earning and yield opportinuties. CHSB Yield provides a conservative single investment interest methods for assets. CHSB Earn provides multiple strategy options to distributed assets. SwissBorg also offers payouts linked to the performance of their own ecosystem, rewarding people for long term investment in CHSB, a bit like CHSB term deposits in the comnpany. They have various tiers for this depending on your investment. 
 
 Some of their more recent capability releases includes SwissBorg Thematics. This is a clever feature allowing people to purchase crypto in similar market verticle bundles, a bit like stockmarket EFTs, but for crypto. These features, as well as asset and portfolio analysis, are all backed by their own advanced AI algorithms. 
 
@@ -86,7 +86,7 @@ There aren't many! There are plenty of crypto portfolio management companies, bu
 
 They are on the leading edge for Blockchain Wealth Management and other than the market affecting their market cap they have been on an upward trajectory. The biggest hurdle for the company so far has been compliance. This is the reason their growth, from an availability stand point, has been slower than it would be otherwise. The SwissBorg app is not yet available in the USA or Australia for example.
 
-As part of the 700k "verified users" they follow strict Know Your Customer (KYC) and Anti Money Laundering (AML) requirements (which I went through myself when investing initially!). This ensures the app is not used illegally. They also have transaction monitoring and anti-fraud intelligence to abide with applicable regulations.
+To become a "verified user" they follow strict Know Your Customer (KYC) and Anti Money Laundering (AML) requirements (which I went through myself when investing initially!). This ensures the app is not used illegally. They also have transaction monitoring and anti-fraud intelligence to abide with applicable regulations.
 
 Having said that, they are managing growth sensibly and protecting their position in the process. They hold 2/3rds of their proprietary assets in fiat/stablecoins, which offsets the volatility in other crypto assets. The remaining 1/3 is crypto where mostly invested in top 10 coins with strong positions, such as BTC and ETH.
 
