@@ -1,6 +1,8 @@
 # Module 1 - Intro to Fintech
 
-This is Module 1 Introduction to Finance and Programming
+This is Module 1 covering Introduction to Finance and Programming
+
+# Module 1 Challenge - Fintech Case Study
 
 ## Contents
 
@@ -10,8 +12,6 @@ This is Module 1 Introduction to Finance and Programming
 * [Results](#results)
 * [Recommendations](#recommendations)
 * [Back to Fintech Home](#back-to-fintech-home)
-
-# Module 1 Challenge - Fintech Case Study
 
 ## Overview and Origin
 
