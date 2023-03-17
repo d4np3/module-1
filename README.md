@@ -91,30 +91,29 @@ Having said that, they are managing growth sensibly and protecting their positio
 
 * __*What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*__
 
-The hit unicorn status in 2022 with a $1B market cap. More recently they have pegged back to $200m market cap, but this is across the board with the state of the international financial markets.
+The hit unicorn status in 2022 with a $1B market cap. Looking at todays figures, they have pegged back to $200m market cap, but this scenario is across the board with the state of the international financial markets today, post pandemic.
 
 * __*How is your company performing relative to competitors in the same domain?*__
 
-TBC
+If you Google Blockchain Wealth Management, you will find articles from 2017, 2018, 2019, maybe 2020 plus a handful from 2022. It appears that this is not a market that the intrinsict Wealth Management market is taking seriously. There are endless companiespnies offering "crypto" portfolio management today, but they, themselves are far from invested in the technology, merely another souless vessel to another financial product. 
 
 ## Recommendations
 
 * __*If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)*__
 
-TBC
+Focus on expanding international licensing to enable faster uptake of their Smartphone App and the platform in general.
 
 * __*Why do you think that offering this product or service would benefit the company?*__
 
-TBC
+Their main hinderance is lack of international expansion, or the hinderance due to intense regulation.
 
 * __*What technologies would this additional product or service utilize?*__
 
-TBC
+Their roadmap is exciting. The current restriction is licensing and regulation. Their growth is hindered by regulation and not by technology,
 
 * __*Why are these technologies appropriate for your solution?*__
 
-TBC
-
+They already work. It is red tape that hinders.
 
 ## Back to Fintech Home
 
