@@ -58,7 +58,9 @@ Their aim was to simplify crypto investment by integrating exchange functions, p
 
 They target everyone, crypto investors and believers in SwissBorg. They have over 706k verified users and growing. While they offer ability to buy and sell crypto, they are much more than a crypto exchange. They released a Smartphone App for users that provides passive earning and yield opportinuties. CHSB Yield provides a conservative single investment interest methods for assets. CHSB Earn provides multiple strategy options to distributed assets. SwissBorg also offers payouts linked to the performance of their own ecosystem, rewarding people for long term investment in CHSB, a bit like CHSB term deposits in the company. They have various tiers for this depending on your investment. You can earn up to 8% interest with their platform.
 
+<p align="center">
 <img src="https://images.prismic.io/swissborg-website/e0fdb725-a8da-495e-94d6-fee29bb1d915_CHSB-yield-earn.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&q=50&rect=0%2C0%2C1600%2C800&w=780&h=390" width=50% height=50%>
+</p>
 
 Some of their more recent capability releases includes SwissBorg Thematics. This is a unique and clever feature allowing people to purchase crypto in similar market verticle bundles, a bit like stockmarket Exchange Traded Funds (EFTs), but for crypto. Diversified crypto investment. These features, as well as asset and portfolio analysis, are all backed by their own advanced Artificial Intelligence (AI) algorithms. 
 
