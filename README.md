@@ -17,9 +17,9 @@ This is Module 1 covering Introduction to Finance and Programming
 
 * __*Name of the Company*__
 
-<img src="https://coinacademy.fr/wp-content/uploads/2021/04/swissborg-2.png.webp" width=50% height=50%>
-
 [SwissBorg S.A.](https://swissborg.com/)
+
+<img src="https://coinacademy.fr/wp-content/uploads/2021/04/swissborg-2.png.webp" width=50% height=50%>
 
 * __*When was the company incorporated?*__
 
@@ -97,7 +97,11 @@ Having said that, they are managing growth sensibly and protecting their positio
 
 * __*What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*__
 
-SwissBorg hit unicorn status in 2022 with a $1B market cap, reaching roughly $1.4B in March 2021. Looking at todays figures, they have pegged back to $200m, but this scenario is across the board with the state of the international financial markets today, post pandemic.
+SwissBorg hit unicorn status in 2022 with a $1B market cap, reaching roughly $1.4B in March 2021. 
+
+<img src="CHSB_all.png">
+
+Looking at todays figures, they have pegged back to $200m, but this scenario is across the board with the state of the international financial markets today, post pandemic.
 
 * __*How is your company performing relative to competitors in the same domain?*__
 
@@ -124,6 +128,18 @@ I expect it would be relatively easy to implement using their existing technolog
 * __*Why are these technologies appropriate for your solution?*__
 
 They are already providing a trading platform for crypto, so it would be an expansion of that existing capability.
+
+### Sources
+
+https://swissborg.com/
+https://crunchbase.com/
+https://coinmarketcap.com/ 
+https://fintechmagazine.com/
+https://influencermarketinghub.com/
+https://www.cryptonewsz.com/
+https://www.w3.org/
+https://www.investopedia.com/
+https://en.wikipedia.org/
 
 ## Back to Fintech Home
 
