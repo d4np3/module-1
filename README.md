@@ -137,15 +137,15 @@ They are already providing a trading platform for crypto, so it would be an expa
 
 ### Sources
 
-https://swissborg.com/
-https://crunchbase.com/
-https://coinmarketcap.com/ 
-https://fintechmagazine.com/
-https://influencermarketinghub.com/
-https://www.cryptonewsz.com/
-https://www.w3.org/
-https://www.investopedia.com/
-https://en.wikipedia.org/
+https://swissborg.com/ <br />
+https://crunchbase.com/ <br />
+https://coinmarketcap.com/ <br />
+https://fintechmagazine.com/ <br />
+https://influencermarketinghub.com/ <br />
+https://www.cryptonewsz.com/ <br />
+https://www.w3.org/ <br />
+https://www.investopedia.com/ <br />
+https://en.wikipedia.org/ <br />
 
 ## Back to Fintech Home
 
