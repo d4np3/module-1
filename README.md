@@ -61,7 +61,7 @@ In addition to the above intellectual property (IP) they commit constant efforts
 * __*Which technologies are they currently using, and how are they implementing them?*__
   __*(This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*__
 
-The CHSB token is a utility token on the Ethereum blockchain which is used to access their services on the SwissBorg platform. They are Web3 and decentralised finance (DeFi) focused. Web3 itself is claimed to be marketing spin, but essentially it means using a distributed model. 
+The CHSB token is a utility token on the Ethereum blockchain which is used to access their services on the SwissBorg platform. They are Web3 and decentralised finance (DeFi) focused. Web3 itself is claimed to be marketing spin, but essentially it means using a distributed development model. 
 
 _A slight tangent, but another company - Protocol Labs - wrote InterPlanetary File System (IPFS) which is the basis for distributed Internet on blockchain. It is also the basis for Filecoin (another one I have invested in) which is distributed remote storage._
 
@@ -73,11 +73,13 @@ Crypto Wealth Management based on Blockchain technology.
 
 * __*What have been the major trends and innovations of this domain over the last 5-10 years?*__
 
-Many companies are still discussing blockchain technology in the wealth management market, whereby SwissBorg has been continuing to expand their offering.
+Many companies are still discussing blockchain technology in the wealth management market, there are articles written as recently as last year talking about it like it is not happening yet. Meanwhile, SwissBorg has been continuing to expand their offering since 2017.
 
 * __*What are the other major companies in this domain?*__
 
 There aren't many! There are plenty of crypto portfolio management companies, but they don't provide the service on blockchain technology.
+
+One company that is blockchain based that is similar is Insight Protocol (INX). However, their market cap is only $80k USD so they are small in relation to SwissBorg in that regard. The all time high of the INX token was 0.32 USD compared to CHSB reaching $1.64 USD.  They also do not offer so many features. They are a regulated blockchain based crypto trading platform. They were the SEC registered security token to IPO and do offer other IPO style investments, a capital raising function, but that is about it. They don't offer the same interest earning features that SwissBorg do with Earn/Yield.
 
 ## Results
 
@@ -91,11 +93,11 @@ Having said that, they are managing growth sensibly and protecting their positio
 
 * __*What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*__
 
-The hit unicorn status in 2022 with a $1B market cap. Looking at todays figures, they have pegged back to $200m market cap, but this scenario is across the board with the state of the international financial markets today, post pandemic.
+SwissBorg hit unicorn status in 2022 with a $1B market cap, reaching roughly $1.4B in March 2021. Looking at todays figures, they have pegged back to $200m, but this scenario is across the board with the state of the international financial markets today, post pandemic.
 
 * __*How is your company performing relative to competitors in the same domain?*__
 
-If you Google Blockchain Wealth Management, you will find articles from 2017, 2018, 2019, maybe 2020 plus a handful from 2022. It appears that this is not a market that the intrinsict Wealth Management market is taking seriously. There are endless companiespnies offering "crypto" portfolio management today, but they, themselves are far from invested in the technology, merely another souless vessel to another financial product. 
+If you Google Blockchain Wealth Management, you will find articles from 2017, 2018, 2019, maybe 2020 plus a handful from 2022. It appears that this is not a market that the intrinsict Wealth Management market is taking seriously. There are endless companies offering "crypto" portfolio management today, but they, themselves are far from invested in the technology, merely another souless vessel to another financial product. 
 
 ## Recommendations
 
