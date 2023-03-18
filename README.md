@@ -27,7 +27,7 @@ SwissBorg was founded in Switzerland in 2017.
 
 The original joint founders are Swiss nationals Cyrus Fazel and Anthony Lesoismier.
 
-![Cyrus](https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/uwuitrm5xa7iwsqxqhsz) ![Anthony](https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/gokvci755hzjmxadtj3d)
+[img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/wuitrm5xa7iwsqxqhsz"](https://www.linkedin.com/in/cyrusfazelmrfintech/?originalSubdomain=ch) [img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_thumb,h_170,w_170,f_auto,g_faces,z_0.7,b_white,q_auto:eco,dpr_1/gokvci755hzjmxadtj3d"](https://www.linkedin.com/in/anthony-lesoismier-geniaux-06254a11/?locale=en_US)
 
 * __*How did the idea for the company (or project) come about?*__
 
