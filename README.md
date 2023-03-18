@@ -47,23 +47,23 @@ The Series A investment will be distributed as follows:
 
 * __*What specific financial problem is the company or project trying to solve?*__
 
-Their aim was to simplify crypto investment by integrating exchange functions, providing ability to buy/sell crypto and advanced crypto portfolio management. They also integrated community-ownership and input as part of the platform coin ownership as well as voting rights, so people maintain interested and help shape the direction of the company while sharing future success. Above all, bring the ability to gain wealth to everyone rather than just the top 0.1%.
+Their aim was to simplify crypto investment by integrating exchange functions, providing ability to buy/sell crypto and provide advanced crypto portfolio management. They also integrated community-ownership and input as part of the platform coin ownership including voting rights on the referendums and future direction of the platform. This attracts people interested in their technology and gives people the ability to help shape the direction of the company, while sharing future success at the same time. Above all, bring the ability to gain wealth to everyone rather than just the top 0.1%. 
 
 * __*Who is the company's intended customer?  Is there any information about the market size of this set of customers?*__
   __*What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)*__
 
-They target everyone, crypto investors and believers in SwissBorg. They have over 706k verified users and growing. While they offer ability to buy and sell crypto, they are much more than a crypto exchange. They released a Smartphone App for users that provides passive earning and yield opportinuties. CHSB Yield provides a conservative single investment interest methods for assets. CHSB Earn provides multiple strategy options to distributed assets. SwissBorg also offers payouts linked to the performance of their own ecosystem, rewarding people for long term investment in CHSB, a bit like CHSB term deposits in the comnpany. They have various tiers for this depending on your investment. 
+They target everyone, crypto investors and believers in SwissBorg. They have over 706k verified users and growing. While they offer ability to buy and sell crypto, they are much more than a crypto exchange. They released a Smartphone App for users that provides passive earning and yield opportinuties. CHSB Yield provides a conservative single investment interest methods for assets. CHSB Earn provides multiple strategy options to distributed assets. SwissBorg also offers payouts linked to the performance of their own ecosystem, rewarding people for long term investment in CHSB, a bit like CHSB term deposits in the comnpany. They have various tiers for this depending on your investment. You can earn up to 8% interest with their platform.
 
-Some of their more recent capability releases includes SwissBorg Thematics. This is a clever feature allowing people to purchase crypto in similar market verticle bundles, a bit like stockmarket EFTs, but for crypto. These features, as well as asset and portfolio analysis, are all backed by their own advanced AI algorithms. 
+Some of their more recent capability releases includes SwissBorg Thematics. This is a unique and clever feature allowing people to purchase crypto in similar market verticle bundles, a bit like stockmarket Exchange Traded Funds (EFTs), but for crypto. Diversified crypto investment. These features, as well as asset and portfolio analysis, are all backed by their own advanced Artificial Intelligence (AI) algorithms. 
 
 In addition to the above intellectual property (IP) they commit constant efforts into ongoing regulation. While that is constantly changing direction, they need to remain compliant. This is actually another competitive advantage in itself as obtaining and maintaining compliance is no smaller undertaking.
 
 * __*Which technologies are they currently using, and how are they implementing them?*__
   __*(This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)*__
 
-The CHSB token is a utility token on the Ethereum blockchain which is used to access their services on the SwissBorg platform. They are Web3 and decentralised finance (DeFi) focused. Web3 itself is claimed to be marketing spin, but essentially it means using a distributed development model. 
+The CHSB token is a ERC-20 standard, utility token on the Ethereum blockchain which is used to access their services on the SwissBorg platform. The standard needs to be adhered to, which essentially provides checks and balances against the Ethereum network. The SwissBorg development model is Web3 and decentralised finance (DeFi) focused. Web3 itself is claimed to be marketing spin, but essentially it means using a distributed development model. Web2 is the Internet as we know it today. Web3 is a combination of content focused association, providing better connectivity through metadata. Content itself is ubiquitous, meaning that rather than all the information being stored in a single location, all devices connected share data. It also uses AI to analyze and maintain reliable information. The environment is based on Web Ontology Language (OWL) and Resource Development Framework (RDF). You can find more information on Web3 via the [W3 Consortium](https://www.w3.org/).
 
-_A slight tangent, but another company - Protocol Labs - wrote InterPlanetary File System (IPFS) which is the basis for distributed Internet on blockchain. It is also the basis for Filecoin (another one I have invested in) which is distributed remote storage._
+_A slight tangent, but another company - Protocol Labs - wrote InterPlanetary File System (IPFS) which is the basis for distributed Internet on blockchain. They are also the developers of Filecoin (another one I have invested in) which is a decentralised storage network and takes ideas from IPFS._
 
 ## Landscape:
 
@@ -103,19 +103,23 @@ If you Google Blockchain Wealth Management, you will find articles from 2017, 20
 
 * __*If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)*__
 
-Focus on expanding international licensing to enable faster uptake of their Smartphone App and the platform in general.
+Integrate options trading or variance/volatility swaps.
+
+Otherwise, focus on expanding international licensing to enable faster uptake of their Smartphone App and the platform in general.
 
 * __*Why do you think that offering this product or service would benefit the company?*__
 
-Their main hinderance is lack of international expansion, or the hinderance due to intense regulation.
+It would expand their product offering and, given the volatility of the crypto market, provide more ways for users to make money.
+
+Obviously, this would also provide SwissBorg with the ability to increase revenue, through new users and more trades.
 
 * __*What technologies would this additional product or service utilize?*__
 
-Their roadmap is exciting. The current restriction is licensing and regulation. Their growth is hindered by regulation and not by technology,
+I expect it would be relatively easy to implement using their existing technologies.
 
 * __*Why are these technologies appropriate for your solution?*__
 
-They already work. It is red tape that hinders.
+They are already providing a trading platform for crypto, so it would be an expansion of that existing capability.
 
 ## Back to Fintech Home
 
