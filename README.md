@@ -17,7 +17,7 @@ This is Module 1 covering Introduction to Finance and Programming
 
 * __*Name of the Company*__
 
-<img src="https://coinacademy.fr/wp-content/uploads/2021/04/swissborg-2.png.webp" width=50% height=50%>(https://swissborg.com/)
+[<img src="https://coinacademy.fr/wp-content/uploads/2021/04/swissborg-2.png.webp" width=50% height=50%>](https://swissborg.com/)
 
 * __*When was the company incorporated?*__
 
