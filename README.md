@@ -2,7 +2,7 @@
 
 This is Module 1 covering Introduction to Finance and Programming
 
-# Module 1 Challenge - Fintech Case Study
+# Challenge - Fintech Case Study
 
 ## Contents
 
