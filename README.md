@@ -134,7 +134,7 @@ There isn't much information available as to how they have implemented their ser
 
 * __*Why are these technologies appropriate for your solution?*__
 
-Much like blockchain technology itself, the suggested architecture is a distributed model, which not only provides the most efficient delivery of services, but provides multiple levels of redundancy and security.
+Much like blockchain technology itself, the suggested architecture is a distributed model, which not only provides the most efficient delivery of services, but provides multiple levels of redundancy and security. Using cloud services also allows for compute expansion as their service offering user base grows.
 
 ### Sources
 
