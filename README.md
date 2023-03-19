@@ -71,6 +71,8 @@ The CHSB token is a ERC-20 standard, utility token on the Ethereum blockchain wh
 
 _A slight tangent, but another company - Protocol Labs - wrote InterPlanetary File System (IPFS) which is the basis for distributed Internet on blockchain. They are also the developers of Filecoin (another one I have invested in) which is a decentralised storage network and takes ideas from IPFS._
 
+From a security standpoint, they use multi-party computation (MPC) security platform Fireblocks. The process sees multiple computations made without the parties knowing secret parts of each others compute process. This helps prevent hackers stealing digital assets.
+
 ## Landscape:
 
 * __*What domain of the financial industry is the company in?*__
@@ -128,11 +130,11 @@ Obviously, this would also provide SwissBorg with the ability to increase revenu
 
 * __*What technologies would this additional product or service utilize?*__
 
-I expect it would be relatively easy to implement using their existing technologies.
+There isn't much information available as to how they have implemented their services today in regards to infrastructure, whether they host on premises, leverage cloud services, or both in a hybrid model. I would recommend they host servers in core locations in the regions where they operate. They are available is most regions, albeit not every country within, but with the aim to grow as more licenses and regulations allow, I would direct them to host servers in North America, Europe and Asia to provide the services sufficiently. To further improve performance world-wide, I would leverage a Content Delivery Network (CDN) service as well, such as Cloudfare or Akamai. There may be some security concerns around this however, depending on operations, so risk assessments would need to be conducted before implementation.
 
 * __*Why are these technologies appropriate for your solution?*__
 
-They are already providing a trading platform for crypto, so it would be an expansion of that existing capability.
+Much like blockchain technology itself, the suggested architecture is a distributed model, which not only provides the most efficient delivery of services, but provides multiple levels of redundancy and security.
 
 ### Sources
 
