@@ -102,7 +102,7 @@ Having said that, they are managing growth sensibly and protecting their positio
 SwissBorg hit unicorn status in 2022 with a $1B market cap, reaching roughly $1.4B in March 2021. 
 
 <p align="center">
-<img src="CHSB_all.png" width=75% height=75%>
+<img src="CHSB_all.png" width=75% height=75%> <br />
 CHSB Market Cap Graph
 </p>
 
