@@ -17,7 +17,7 @@ This is Module 1 covering Introduction to Finance and Programming
 
 * __*Name of the Company*__
 
-[<img src="https://coinacademy.fr/wp-content/uploads/2021/04/swissborg-2.png.webp" width=42% height=42%>](https://swissborg.com/)
+[<img src="https://coinacademy.fr/wp-content/uploads/2021/04/swissborg-2.png.webp" width=41% height=41%>](https://swissborg.com/)
 
 * __*When was the company incorporated?*__
 
@@ -85,7 +85,7 @@ Many companies are still discussing blockchain technology in the wealth manageme
 
 There aren't many! There are plenty of crypto portfolio management companies, but they don't provide the service on blockchain technology.
 
-One company that is blockchain based that is similar is Insight Protocol (INX). However, their market cap is only $80k USD so they are small in relation to SwissBorg in that regard. The all time high of the INX token was 0.32 USD compared to CHSB reaching $1.64 USD.  They also do not offer so many features. They are a regulated blockchain based crypto trading platform. They were the SEC registered security token to IPO and do offer other IPO style investments, a capital raising function, but that is about it. They don't offer the same interest earning features that SwissBorg do with Earn/Yield.
+One company that is blockchain based that is similar is Insight Protocol (INX). However, their market cap is only $80k USD so they are small in relation to SwissBorg in that regard. The all time high of the INX token was 0.32 USD compared to CHSB reaching $1.64 USD.  They also do not offer so many features. They are a regulated blockchain based crypto trading platform. They were the first SEC registered security token to IPO and do offer other IPO style investments, a capital raising function, but that is about it. They don't offer the same interest earning features that SwissBorg do with Earn/Yield.
 
 ## Results
 
@@ -103,6 +103,7 @@ SwissBorg hit unicorn status in 2022 with a $1B market cap, reaching roughly $1.
 
 <p align="center">
 <img src="CHSB_all.png" width=75% height=75%>
+CHSB Market Cap Graph
 </p>
 
 Looking at todays figures, they have pegged back to $200m, but this scenario is across the board with the state of the international financial markets today, post pandemic.
